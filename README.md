@@ -1,4 +1,4 @@
-## Olá eu sou o Bruno, desenvoledor mobile!!
+## Olá, eu sou o Bruno, desenvoledor mobile!!
 <div align="center">
   <a href="https://github.com/brunodeev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodeev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
