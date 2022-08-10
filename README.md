@@ -5,10 +5,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodeev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Bruno-Flutter" height="100" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Bruno-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
   <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Bruno-Xamarin" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original-wordmark.svg" />
-  <img align="center" alt="Bruno-Xamarin" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 </div>
   
   ##
