@@ -1,7 +1,7 @@
 Sou o Bruno, estudante desenvoledor mobile!
 <div align="center"> 
-<img width="450em" alt="Status Github Bruno" src="https://github-readme-stats.vercel.app/api?username=brunodeev&show_icons=true&theme=dracula" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodeev&layout=compact&theme=dracula"/>
+<img width="450em" height="250em" alt="Status Github Bruno" src="https://github-readme-stats.vercel.app/api?username=brunodeev&show_icons=true&theme=dracula" />
+<img width="380em" height="250em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodeev&layout=true&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   
