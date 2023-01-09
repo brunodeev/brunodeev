@@ -8,7 +8,6 @@
   <img align="center" alt="Bruno-Flutter" height="80" width="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Bruno-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
 </div>
-  
-  ##
-  ![Snake animation](https://github.com/brunodeev/brunodeev/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/brunodeev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
