@@ -1,7 +1,12 @@
 # Sou o Bruno, desenvolvedor mobile!
-
-<div style="display: inline_block"><br>
   
+<div>
+ <a href="https://github.com/brunodeev">
+ <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunodeev&show_icons=true&theme=dark&count_private=true&hide=stars"/><a/>
+</div>
+  
+# Linguagens e Frameworks
+<div>
   <img align="center" alt="Bruno-Flutter" height="80" width="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Bruno-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
   <img align="center" alt="Bruno-Csharp" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
