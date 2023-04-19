@@ -1,4 +1,4 @@
-# Olá! Sou o Bruno, desenvolvedor mobile!
+# Olá! Sou o Bruno, desenvolvedor web e mobile!
   
 <div>
  <a href="https://github.com/brunodeev">
