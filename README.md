@@ -4,7 +4,7 @@
  <a href="https://github.com/brunodeev">
  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunodeev&show_icons=true&theme=dark&count_private=true&hide=stars"/><a/>
 </div>
-  
+   
 # Linguagens e Frameworks
 <div>
   <img align="center" alt="Bruno-Csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
