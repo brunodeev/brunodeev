@@ -1,4 +1,4 @@
-# Olá! Sou o Bruno, desenvolvedor web e mobile!
+# Olá! Sou o Bruno, desenvolvedor mobile!
   
 <div>
  <a href="https://github.com/brunodeev">
@@ -7,12 +7,13 @@
    
 # Linguagens e Frameworks
 <div>
+  <img align="center" alt="Bruno-Csharp" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Bruno-Csharp" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Bruno-Csharp" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Bruno-Csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Bruno-Csharp" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Bruno-Csharp" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Bruno-Csharp" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Bruno-Csharp" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Bruno-Csharp" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 # Contatos
