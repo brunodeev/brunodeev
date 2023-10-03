@@ -7,6 +7,7 @@
    
 # Linguagens e Frameworks
 <div>
+  <img align="center" alt="Bruno-Csharp" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img align="center" alt="Bruno-Csharp" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Bruno-Csharp" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Bruno-Csharp" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
