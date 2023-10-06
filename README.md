@@ -1,11 +1,11 @@
-# Olá! Sou o Bruno, desenvolvedor mobile!
+# Hi! I'm Bruno, mobile dev!
   
 <div>
  <a href="https://github.com/brunodeev">
  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunodeev&show_icons=true&theme=dark&count_private=true&hide=stars"/><a/>
 </div>
    
-# Linguagens e Frameworks
+# Languages & Frameworks
 <div>
   <img align="center" alt="Bruno-Csharp" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img align="center" alt="Bruno-Csharp" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -17,7 +17,7 @@
   <img align="center" alt="Bruno-Csharp" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-# Contatos
+# Contact
   
 <div>
   <a href="https://www.linkedin.com/in/brunodeev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
