@@ -7,11 +7,10 @@
    
 # Languages & Frameworks
 <div>
-  <img align="center" alt="Bruno-Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Bruno-Java" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
-  <img align="center" alt="Bruno-Js" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Bruno-Html" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Bruno-Css" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Bruno-Go" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg""/>
+  <img align="center" alt="Bruno-React" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Bruno-Vue" height="35" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
+  <img align="center" alt="Bruno-MongoDB" height="40" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </div>
 
 # Contact
